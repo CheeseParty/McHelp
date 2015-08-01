@@ -1,0 +1,39 @@
+/* BOUTONS */
+.btn_log {
+  float:right;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  color: #ffffff;
+  font-size: 17px;
+  padding: 7px;
+  background: #264564;
+  text-decoration: none;
+}
+
+.btn_log:hover {
+  background: #16689b;
+  text-decoration: none;
+}
+
+/****************************************************************************************************************************************************************************************/
+.navbtn,.navbtnfirst {
+  text-align: left;
+  float:left;
+  color: #ffffff;
+  font-size: 20px;
+  padding:5px 50px 5px;
+  background: #264564;
+  text-decoration: none;
+
+}
+
+.navbtn:hover,.navbtnfirst:hover {
+   background: #16689b;
+}
+
+.navbtnfirst {
+  border-bottom-left-radius: 4px;
+  border-top-left-radius: 4px;
+
+}
